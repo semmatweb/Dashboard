@@ -554,3 +554,13 @@ button:focus .powers{
     height: 32px;
     /* padding: 0px; */
 }
+@media(min-width: 360px) {
+    
+    .powers{
+        width: 288px;
+        position: absolute;
+        top: -290px;
+        left: -95px;
+    }
+    
+}
