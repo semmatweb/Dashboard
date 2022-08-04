@@ -554,7 +554,7 @@ button:focus .powers{
     height: 32px;
     /* padding: 0px; */
 }
-@media(min-width: 360px) {
+/* @media(min-width: 360px) {
     
     .powers{
         width: 288px;
@@ -563,4 +563,4 @@ button:focus .powers{
         left: -95px;
     }
     
-}
+} */
